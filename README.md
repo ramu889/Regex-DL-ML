@@ -2,7 +2,7 @@
 
 ## Assignment 1
 
-Pattrens questions
+Questions on different Pattrens (Numbers & Stars(*)).
 
 Solutions
 
@@ -10,7 +10,7 @@ Video showing Execution of code.
 
 ## Assignment 2
 
-Question on Loops, conditions
+Questions on Loops and conditions
 
 Solutions
 
