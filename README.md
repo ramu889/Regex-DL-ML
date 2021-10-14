@@ -6,7 +6,7 @@ Pattrens questions
 
 Solutions
 
-Video showing Execution code.
+Video showing Execution of code.
 
 ## Assignment 2
 
@@ -14,4 +14,4 @@ Question on Loops, conditions
 
 Solutions
 
-Video showing Execution code.
+Video showing Execution of code.
